@@ -3,7 +3,7 @@ addons:
   sonarcloud:
     organization: "nesrine125"
     token:
-      secure: "5ed77583e7901f335e541ec738a4cafb29909885" # encrypted value of your token
+      secure: "a50e9d79da590ca730aa7cdd789f7bfbc8d737ec" # encrypted value of your token
 install: composer install --prefer-dist
 script:
   # the following command line builds the project, runs the tests with coverage and then execute the SonarCloud analysis
