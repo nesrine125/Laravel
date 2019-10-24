@@ -2,7 +2,7 @@ dist: trusty
 
 addons:
   sonarcloud:
-    organization: "sanogotech"
+    organization: "nesrine125"
     token:
       secure: "5ed77583e7901f335e541ec738a4cafb29909885" # encrypted value of your token
 
